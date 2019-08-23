@@ -1,0 +1,12 @@
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\bin\Debug\netcoreapp2.1\TaskManager.Data.Entities.deps.json
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\bin\Debug\netcoreapp2.1\TaskManager.Data.Entities.dll
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\bin\Debug\netcoreapp2.1\TaskManager.Data.Entities.pdb
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\bin\Debug\netcoreapp2.1\TaskManager.Models.dll
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\bin\Debug\netcoreapp2.1\TaskManager.Models.pdb
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.csprojAssemblyReference.cache
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.AssemblyInfo.cs
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.csproj.CopyComplete
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.dll
+C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data.Entities\obj\Debug\netcoreapp2.1\TaskManager.Data.Entities.pdb
