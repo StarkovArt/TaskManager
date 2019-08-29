@@ -9,21 +9,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{AFAD02CD-8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E9D897AC-1DDD-4D77-9C83-3B634DD5BC3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Api", "TaskManager.Api\TaskManager.Api.csproj", "{4EE7CC02-2C76-4A70-950A-28C132E1D957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Api", "TaskManager.Api\TaskManager.Api.csproj", "{4EE7CC02-2C76-4A70-950A-28C132E1D957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Api.Test", "TaskManager.Api.Test\TaskManager.Api.Test.csproj", "{E7D5543A-F19B-4DF4-ACA6-10A73DA3289B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Api.Test", "TaskManager.Api.Test\TaskManager.Api.Test.csproj", "{E7D5543A-F19B-4DF4-ACA6-10A73DA3289B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Models", "TaskManager.Models\TaskManager.Models.csproj", "{D4BC6467-B8E7-4F6F-92B2-DB4765381DD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Models", "TaskManager.Models\TaskManager.Models.csproj", "{D4BC6467-B8E7-4F6F-92B2-DB4765381DD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Services", "TaskManager.Services\TaskManager.Services.csproj", "{C25F11A0-CCC2-44A9-A5D6-A4B7213624D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Services", "TaskManager.Services\TaskManager.Services.csproj", "{C25F11A0-CCC2-44A9-A5D6-A4B7213624D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Services.Test", "TaskManager.Services.Test\TaskManager.Services.Test.csproj", "{AFBC32E3-EDE5-4338-895A-4CFFB335672C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Services.Test", "TaskManager.Services.Test\TaskManager.Services.Test.csproj", "{AFBC32E3-EDE5-4338-895A-4CFFB335672C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Data.Entities", "TaskManager.Data.Entities\TaskManager.Data.Entities.csproj", "{A41285ED-A56C-482D-994C-BFEAB5546DCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Data.Entities", "TaskManager.Data.Entities\TaskManager.Data.Entities.csproj", "{A41285ED-A56C-482D-994C-BFEAB5546DCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Data", "TaskManager.Data\TaskManager.Data.csproj", "{FD752373-620B-409E-9009-0E08FB09C35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Data", "TaskManager.Data\TaskManager.Data.csproj", "{FD752373-620B-409E-9009-0E08FB09C35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Data.Test", "TaskManager.Data.Test\TaskManager.Data.Test.csproj", "{3B93F38D-FFFE-4303-830E-157B4F484194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Data.Test", "TaskManager.Data.Test\TaskManager.Data.Test.csproj", "{3B93F38D-FFFE-4303-830E-157B4F484194}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{E40A43D6-551B-4D9F-B2A9-BCE6AA3DCCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.UI", "TaskManager.UI\TaskManager.UI.csproj", "{9240C9DC-986B-4596-9764-399D3229E4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{9CB7D1A3-BC39-4945-8B12-703DF49E1972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,14 @@ Global
 		{3B93F38D-FFFE-4303-830E-157B4F484194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B93F38D-FFFE-4303-830E-157B4F484194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B93F38D-FFFE-4303-830E-157B4F484194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9240C9DC-986B-4596-9764-399D3229E4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9240C9DC-986B-4596-9764-399D3229E4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9240C9DC-986B-4596-9764-399D3229E4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9240C9DC-986B-4596-9764-399D3229E4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB7D1A3-BC39-4945-8B12-703DF49E1972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB7D1A3-BC39-4945-8B12-703DF49E1972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB7D1A3-BC39-4945-8B12-703DF49E1972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB7D1A3-BC39-4945-8B12-703DF49E1972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +90,8 @@ Global
 		{A41285ED-A56C-482D-994C-BFEAB5546DCD} = {AFAD02CD-82CB-4212-BFAA-2F9E54D7C1F3}
 		{FD752373-620B-409E-9009-0E08FB09C35B} = {AFAD02CD-82CB-4212-BFAA-2F9E54D7C1F3}
 		{3B93F38D-FFFE-4303-830E-157B4F484194} = {AFAD02CD-82CB-4212-BFAA-2F9E54D7C1F3}
+		{9240C9DC-986B-4596-9764-399D3229E4BC} = {E40A43D6-551B-4D9F-B2A9-BCE6AA3DCCBF}
+		{9CB7D1A3-BC39-4945-8B12-703DF49E1972} = {E40A43D6-551B-4D9F-B2A9-BCE6AA3DCCBF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5F39D2A-B8CD-425A-9211-F5C879DCF431}
