@@ -362,7 +362,7 @@ project.assets.json
 *.csproj.FileListAbsolute.txt
 *.AssemblyInfo.cs
 *.runtimeconfig.dev.json
-
+.vs/
 
 
 
