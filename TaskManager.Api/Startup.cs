@@ -35,6 +35,7 @@
 
             services.AddTransient<ITaskService, TaskService>();
             services.AddTransient<ITaskRepository, TaskRepository>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
 
             var connection = @"Server=(localdb)\mssqllocaldb;Database=Task;Trusted_Connection=True;ConnectRetryCount=0";
             services.AddDbContext<TaskContext>

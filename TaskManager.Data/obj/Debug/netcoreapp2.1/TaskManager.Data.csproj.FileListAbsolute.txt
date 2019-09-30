@@ -12,3 +12,17 @@ C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Models.pdb
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.csprojAssemblyReference.cache
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.csproj.CopyComplete
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Data.deps.json
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Data.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Data.pdb
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Data.Entities.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Models.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Data.Entities.pdb
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\bin\Debug\netcoreapp2.1\TaskManager.Models.pdb
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.csprojAssemblyReference.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.csproj.CoreCompileInputs.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.AssemblyInfoInputs.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.AssemblyInfo.cs
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.csproj.CopyComplete
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Data\obj\Debug\netcoreapp2.1\TaskManager.Data.pdb

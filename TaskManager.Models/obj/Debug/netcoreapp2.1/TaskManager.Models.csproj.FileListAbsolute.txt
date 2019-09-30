@@ -7,3 +7,12 @@ C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.dll
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.pdb
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.csprojAssemblyReference.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\bin\Debug\netcoreapp2.1\TaskManager.Models.deps.json
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\bin\Debug\netcoreapp2.1\TaskManager.Models.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\bin\Debug\netcoreapp2.1\TaskManager.Models.pdb
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.csprojAssemblyReference.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.csproj.CoreCompileInputs.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.AssemblyInfoInputs.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.AssemblyInfo.cs
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Models\obj\Debug\netcoreapp2.1\TaskManager.Models.pdb
