@@ -7,22 +7,15 @@
 
     public class TaskService : ITaskService
     {
-        private readonly ITaskRepository repository;
         private readonly IUnitOfWork unitOfWork;
-
-
-        public TaskService(IUnitOfWork unitOfWork)//(ITaskRepository repository)
+        public TaskService(IUnitOfWork unitOfWork)
         {
-            //this.repository = repository ?? throw new ArgumentNullException(nameof(repository));
             this.unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
-
         }
 
         public async Task<IEnumerable<Models.Task>> GetTasksAsync()
-        {
-            //return await repository.GetAllAsync();
+        {            
             return await unitOfWork.Tasks();
-
         }
 
     }
