@@ -17,13 +17,11 @@
 
         public UnitOfWork(TaskContext taskContext)
         {
-            this.taskContext = taskContext;
-
+            this.taskContext = taskContext ?? throw new ArgumentNullException(nameof(taskContext));
         }
 
         public async Task<IEnumerable<Models.Task>> Tasks()
         {
-
             if (taskRepository == null)
                 taskRepository = new TaskRepository(taskContext);
             return await taskRepository.GetAllAsync();
