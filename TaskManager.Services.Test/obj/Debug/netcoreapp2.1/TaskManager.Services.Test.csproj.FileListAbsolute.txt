@@ -21,3 +21,9 @@ C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Services.Test\bin\Debug\netco
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Services.Test\bin\Debug\netcoreapp2.1\TaskManager.Data.Entities.pdb
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Services.Test\bin\Debug\netcoreapp2.1\TaskManager.Models.pdb
 C:\Users\a.starkou\Desktop\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.csproj.CopyComplete
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.csprojAssemblyReference.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.csproj.CoreCompileInputs.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.AssemblyInfoInputs.cache
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.AssemblyInfo.cs
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.dll
+D:\Projects\StudyProject_1\TaskManager\TaskManager.Services.Test\obj\Debug\netcoreapp2.1\TaskManager.Services.Test.pdb

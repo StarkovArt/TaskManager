@@ -12,14 +12,14 @@ namespace TaskManager.Services.Test
         public async Task GetTasksAsync_DataExist_ShouldReturnTasks()
         {
             // Arrange
-            var repository = new Mock<ITaskRepository>();
+            var repository = new Mock<IUnitOfWork>();
             var service = new TaskService(repository.Object);
             var tasks = new[]
             {
                 new Models.Task(),
                 new Models.Task(),
             };
-            repository.Setup(s => s.GetAllAsync()).ReturnsAsync(tasks);
+            repository.Setup(s => s.Tasks()).ReturnsAsync(tasks);
 
             // Act
             var result = await service.GetTasksAsync();
